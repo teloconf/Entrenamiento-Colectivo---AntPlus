@@ -1,0 +1,14 @@
+{
+  "name": "antplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel U.",
+  "license": "ISC",
+  "dependencies": {
+    "ant-plus": "0.0.9"
+  }
+}
